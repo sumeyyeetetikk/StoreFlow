@@ -1,0 +1,7 @@
+﻿INSERT INTO Activities (Title, Description, ActivityTime)
+VALUES 
+('Ürün Kabul İşlemi', 'Yeni stoklar kaydedildi', '09:00:00'),
+('Günlük Kargo Çıkışı', 'Paketler araca verildi', '11:30:00'),
+('Haftalık Stok Analiz', 'Kritik seviye kontrolü', '14:00:00'),
+('Genel Depo Düzenleme', 'Raflar tek tek dizildi', '15:45:00'),
+('Yarınki Sevkiyatlar', 'Rota ve araç planlandı', '17:15:00');
